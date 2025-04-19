@@ -41,7 +41,7 @@ ratio, expenditure on education, teacher-student ratio, etc.
 -  Power query Editor (ETL)
 -  Used Dax formula
 -   Dashboard
--   <a href="
+-   <a href="https://github.com/Sarjilsatware/Global-Education-Project/blob/main/Education%20Dashboard.jpeg">Dashboard</a>
 ## Conclusion
 The global education system demonstrates a strong gender balance, with nearly equal participation
 from male and female students. Developed countries show higher student enrollment, employment

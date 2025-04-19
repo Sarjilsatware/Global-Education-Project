@@ -24,6 +24,7 @@ ratio, expenditure on education, teacher-student ratio, etc.
 - Which region has the highest percentage of employed students?
 - How does the employment rate differ between developed and developing regions?
 - What is the average salary by country for graduates?
+- Dashboard view <a href="https://github.com/Sarjilsatware/Global-Education-Project/blob/main/Education%20Dashboard.jpeg">Dashboard</a>
 ## Process
 - Create Database by using My sql community version
 -  Insert Content (1-200) Rows
@@ -40,8 +41,7 @@ ratio, expenditure on education, teacher-student ratio, etc.
 -  By using Power bi Imported data
 -  Power query Editor (ETL)
 -  Used Dax formula
--   Dashboard
--   <a href="https://github.com/Sarjilsatware/Global-Education-Project/blob/main/Education%20Dashboard.jpeg">Dashboard</a>
+-   Dashboard <a href="https://github.com/Sarjilsatware/Global-Education-Project/blob/main/Education%20Dashboard.jpeg">Dashboard</a>
 ## Conclusion
 The global education system demonstrates a strong gender balance, with nearly equal participation
 from male and female students. Developed countries show higher student enrollment, employment
